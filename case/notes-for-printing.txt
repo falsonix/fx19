@@ -1,0 +1,3 @@
+All files can be printed with a standard FDM machine in their current orientations. If you encounter the issue of the keycaps not fitting onto your switches due to tolerances, please scale them up by 1%.
+
+Keycap model is not mine, source is in README.MD
