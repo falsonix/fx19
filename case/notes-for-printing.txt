@@ -3,4 +3,5 @@ All files can be printed with a standard FDM machine in their current orientatio
 ####### NOTE #######
 The diffuser should be printed with a light colored filament for maximum effect from the lights.
 
-Keycap model is not mine, source is in README.MD
+1U keycap model is not mine, check here: https://www.printables.com/model/188979-flat-keycap-cherry-mx
+2U keycap model is mine, but is a remix of the 1U found above.
