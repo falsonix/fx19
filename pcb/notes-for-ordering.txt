@@ -1,0 +1,3 @@
+I had my boards made by JLCPCB, but other services such as PCBWAY and Aisler can make circuit boards for you too.
+
+All files needed for having PCBs professionally made are in the 'production' folder, and files for you to modify yourself are in the 'source' folder.
