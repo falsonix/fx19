@@ -1,6 +1,7 @@
 # fx19
 Custom mechanical number pad for personal computers
 
+![3d render of the fx19](./fx19-enclosure-v45.png)
 
 # License information
 FX19 (c) by falsonix
